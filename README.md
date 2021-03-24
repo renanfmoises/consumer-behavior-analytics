@@ -27,7 +27,7 @@ Step-by-Step analysis:
 ## [DATA ANALYSIS](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/02.%20Consumer%20Behavior%20Analytics%20-%20Data%20Analysis.ipynb)
 ### Schedule
 
-#### Exploratory Data Analysis (Click on topic to open notebook directly)
+#### Exploratory Data Analysis
 - Feature Engineering: discretizing and combining some variables; - COMPLETED
 - Investigation on `AcceptedCmp`s variables; - COMPLETED
 - Univariate analysis; - ONGOING!
@@ -35,7 +35,4 @@ Step-by-Step analysis:
 
 
 ## MODELLING
-TO DO!
-
-
-.<br><br>
+TO DO!<br><br>
