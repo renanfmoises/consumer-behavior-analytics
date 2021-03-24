@@ -1,9 +1,15 @@
 # Consumer Behavior Analytics
-## last update March 24, 2021
+Last update: March 24, 2021
 <br><br>
-This repository contains the Consumer Behavior Analytics files and notebooks.<br><br>
+## This repository contains the Consumer Behavior Analytics files and notebooks.<br><br>
 
-## [DATA CLEANING](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/01.%20Consumer%20Behavior%20Analytics%20-%20Data%20Cleaning.ipynb)
+Notebooks can be found on the Notebooks directory in this repo.
+
+_____________________________
+
+Step-by-Step analysis:
+
+## [DATA CLEANING](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/01.%20Consumer%20Behavior%20Analytics%20-%20Data%20Cleaning.ipynb) (Click on topic to open notebook directly)
 ### Schedule
 
 **In order to perform the data cleaning of this dataset, we will proceed with the following steps:**
@@ -21,7 +27,7 @@ This repository contains the Consumer Behavior Analytics files and notebooks.<br
 ## [DATA ANALYSIS](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/02.%20Consumer%20Behavior%20Analytics%20-%20Data%20Analysis.ipynb)
 ### Schedule
 
-#### Exploratory Data Analysis
+#### Exploratory Data Analysis (Click on topic to open notebook directly)
 - Feature Engineering: discretizing and combining some variables; - COMPLETED
 - Investigation on `AcceptedCmp`s variables; - COMPLETED
 - Univariate analysis; - ONGOING!
