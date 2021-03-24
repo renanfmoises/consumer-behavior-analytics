@@ -1,3 +1,5 @@
+<img src="../images/cbanalytics.jpg">
+
 # Consumer Behavior Analytics
 Last update: March 24, 2021
 <br><br>
