@@ -1,4 +1,4 @@
-<img src="../images/cbanalytics.png" width="800" height="400">
+<img src="/images/cbanalytics.png" width="800" height="400">
 
 # Consumer Behavior Analytics
 Last update: March 24, 2021
