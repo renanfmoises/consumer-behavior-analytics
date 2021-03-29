@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renan/projects/consumer-behavior/notebooks/mlruns/5/43362a8eccce46c2b97de1d635bc9596/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+name: ''
+run_id: 43362a8eccce46c2b97de1d635bc9596
+run_uuid: 43362a8eccce46c2b97de1d635bc9596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1617056121768
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,4 @@
+artifact_location: file:///Users/renan/projects/consumer-behavior/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Consumer_Behavior_Analytics
