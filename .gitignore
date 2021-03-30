@@ -2,3 +2,6 @@
 /.images
 /notebooks/.ipynb_checkpoints
 /notebooks/mlruns
+/models/models_old
+/data/mlruns
+/mlruns
