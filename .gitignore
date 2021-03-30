@@ -1,3 +1,4 @@
 .DS_Store
 /.images
 /notebooks/.ipynb_checkpoints
+/notebooks/mlruns
