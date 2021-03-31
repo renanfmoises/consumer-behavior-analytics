@@ -3,47 +3,53 @@
 </picture>
 
 # Consumer Behavior Analytics
-Last update: March 31, 2021
-<br><br>
-<small>This repository contains the Consumer Behavior Analytics files and notebooks.</small>
-<br><br>
 
-Notebooks can be found on the Notebooks directory in this repo.
+<small>
+<p style="text-align:right;">Last update: March 31, 2021</p></small>
 
+<small>**To view notebooks go to the following directory:**</small>
+<br>
+[<small>/notebooks</small>](https://github.com/renanfmoises/consumer-behavior-analytics/tree/master/notebooks)
 _____________________________
+## Schedule
 
-Check Data Science Analysis and Modelling at:
-<small>/notebooks</small>
+## DATA CLEANING
 
-## [DATA CLEANING](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/01.%20Consumer%20Behavior%20Analytics%20-%20Data%20Cleaning.ipynb) (Click on topic to open notebook directly)
-### Schedule
-
-**In order to perform the data cleaning of this dataset, we will proceed with the following steps:**
-
-1. Check primary key integrity
-2. Check for duplicates
-3. Remove unimportant variables
-4. Check for missing values
-5. Check and handle outliers:
+- Check primary key integrity
+- Check for duplicates
+- Remove unimportant variables
+- Check for missing values
+- Check and handle outliers:
     - in numerical variables;
     - in categorical variables (with absurd values);
-6. Save dataset into a new csv file, cleaned
+- Save dataset into a new csv file, cleaned
 
 
-## [DATA ANALYSIS](https://github.com/renanfmoises/consumer-behavior-analytics/blob/master/notebooks/02.%20Consumer%20Behavior%20Analytics%20-%20Data%20Analysis.ipynb)
-### Schedule
+## DATA ANALYSIS
 #### Exploratory Data Analysis
 - Feature Engineering: discretizing and combining some variables;
 - Investigation on `AcceptedCmp`s variables;
 
 
-## [DATA MODELLING]
-### Modelling
-- Modelling Customers dataset with whole data;
-    - LogisticRegression
+## DATA MODELLING
+- Data Preparation
+- Data Scaling:
+    - RobustScaler for features with outliers
+    - StandScaler for all other features
+- Modelling Customers dataset with whole data:
+    - LogisticRegression - Baseline
+    - LogisticRegression - Tunned
+    - KNeighborsClassifier
+    - SVC
+    - RandomForestClassifier
+    - AdaBoostClassifier
+    - GradientBoostClassifier
+    - XGBoostClassifier
 - Modelling Customers dataset with customers effectively exposed to the Marketing Campaing;
+    - _same models as above, but different dataset._
 
-## [INTERPRETABILITY]
-### Best Model Evaluation
+## INTERPRETABILITY
+### Schedule
 - Best Model Analysis and Interpretability (with SHAP)
 
+</small>
