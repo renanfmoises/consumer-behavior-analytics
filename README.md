@@ -5,7 +5,8 @@
 # Consumer Behavior Analytics
 Last update: March 31, 2021
 <br><br>
-## This repository contains the Consumer Behavior Analytics files and notebooks.<br><br>
+<small>This repository contains the Consumer Behavior Analytics files and notebooks.</small>
+<br><br>
 
 Notebooks can be found on the Notebooks directory in this repo.
 
