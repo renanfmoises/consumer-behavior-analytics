@@ -1,5 +1,5 @@
 <picture>
-<img src="/images/cbanalytics.png" width="1000" height="500">
+<img src="/images/cbanalytics.png" width="900" height="450">
 </picture>
 
 # Consumer Behavior Analytics
