@@ -6,3 +6,4 @@
 /data/mlruns
 /mlruns
 /notebooks/.*
+/case-info
